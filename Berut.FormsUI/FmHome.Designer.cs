@@ -268,7 +268,7 @@
             this.btnReport.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnReport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnReport.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.btnReport.Location = new System.Drawing.Point(74, 346);
+            this.btnReport.Location = new System.Drawing.Point(72, 346);
             this.btnReport.Name = "btnReport";
             this.btnReport.Size = new System.Drawing.Size(110, 110);
             this.btnReport.TabIndex = 2;
