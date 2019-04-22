@@ -1,0 +1,101 @@
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csprojResolveAssemblyReference.cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.Properties.Resources.resources
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.GenerateResource.Cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.CoreCompileInputs.cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe.config
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll.config
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.xml
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.exe
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmHome.resources
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmLogin.resources
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmInput.resources
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmOutput.resources
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe.config
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll.config
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.xml
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csprojAssemblyReference.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmHome.resources
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmInput.resources
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmLogin.resources
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmOutput.resources
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.Properties.Resources.resources
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.GenerateResource.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.CoreCompileInputs.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.CopyComplete
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.exe
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe.config
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll.config
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.xml
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csprojAssemblyReference.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmHome.resources
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmInput.resources
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmLogin.resources
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmOutput.resources
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.Properties.Resources.resources
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.GenerateResource.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.CoreCompileInputs.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.CopyComplete
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.exe
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmReport.resources
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe.config
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.exe
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.FormsUI.pdb
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.dll
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.dll
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.dll
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Business.pdb
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\Berut.Entities.pdb
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.pdb
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\BerutDataAccess.dll.config
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.xml
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csprojAssemblyReference.cache
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmHome.resources
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmInput.resources
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmLogin.resources
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmOutput.resources
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.FmReport.resources
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.Properties.Resources.resources
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.GenerateResource.cache
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.CoreCompileInputs.cache
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.csproj.CopyComplete
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.exe
+C:\Users\utkubalkir\Desktop\161307031--BerkeSeyran--161307041--UtkuCanBalkır\KapıKantarUygulaması\Berut.FormsUI\obj\Debug\Berut.FormsUI.pdb

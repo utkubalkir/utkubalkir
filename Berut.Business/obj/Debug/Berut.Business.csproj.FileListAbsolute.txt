@@ -1,0 +1,41 @@
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csproj.CoreCompileInputs.cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Business.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Business.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Entities.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\EntityFramework.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Entities.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.dll.config
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\EntityFramework.xml
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csprojResolveAssemblyReference.cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Business.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Business.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Entities.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\EntityFramework.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Entities.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.dll.config
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\EntityFramework.xml
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csprojAssemblyReference.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csproj.CoreCompileInputs.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csproj.CopyComplete
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Business.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Business.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Entities.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\EntityFramework.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\Berut.Entities.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\BerutDataAccess.dll.config
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\bin\Debug\EntityFramework.xml
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csprojAssemblyReference.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csproj.CoreCompileInputs.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.csproj.CopyComplete
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Business\obj\Debug\Berut.Business.pdb

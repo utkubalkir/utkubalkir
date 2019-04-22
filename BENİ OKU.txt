@@ -1,0 +1,10 @@
+Proje C# dilinde geliþtirildi. Mimari olarak katmanlý mimari kullanýldý. 
+ORM aracý olarak EntityFramework kullanýldý.
+Arduino kodlarý sketch_apr02a dosyasýnýn içerisindedir.
+Ayrýca Arduinodan veri alabilmek için Port doðru bir þekilde belirtilmelidir.Default port deðeri COM3tür. Portu düzenlemek için Çözüm içindeki
+Berut.Business/Concrete dosyasýnýn içindeki OTOutputmanager.cs sýnýfýnda bulunan DummyWeight adlý fonksiyonda gerekli deðiþiklikleri
+uygulayabilirsiniz.
+Projenin düzgün bir þekilde çalýþabilmesi için veritabaný kurulumuna ihtiyaç vardýr. Veritabaný dosyalarý ektedir.
+
+Utku Can Balkýr
+

@@ -1,0 +1,41 @@
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.dll.config
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\Berut.Entities.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\Berut.Entities.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\BerutDataAccess.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\BerutDataAccess.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.dll.config
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\Berut.Entities.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\Berut.Entities.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.xml
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csprojAssemblyReference.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csproj.CoreCompileInputs.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csproj.CopyComplete
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\BerutDataAccess.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\BerutDataAccess.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.dll.config
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\BerutDataAccess.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\Berut.Entities.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\Berut.Entities.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csprojAssemblyReference.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\Berut.DataAccess.csproj.CopyComplete
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\BerutDataAccess.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\BerutDataAccess\obj\Debug\BerutDataAccess.pdb

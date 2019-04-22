@@ -1,0 +1,18 @@
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\bin\Debug\Berut.Entities.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\bin\Debug\Berut.Entities.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.csproj.CoreCompileInputs.cache
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.dll
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.pdb
+C:\Users\umutb\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.csprojResolveAssemblyReference.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\bin\Debug\Berut.Entities.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\bin\Debug\Berut.Entities.pdb
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.csprojAssemblyReference.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.csproj.CoreCompileInputs.cache
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.dll
+D:\Format Öncesi\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\bin\Debug\Berut.Entities.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\bin\Debug\Berut.Entities.pdb
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.csprojAssemblyReference.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.csproj.CoreCompileInputs.cache
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.dll
+C:\Users\utkubalkir\Documents\Visual Studio 2017\Projects\KapıKantarUygulaması\Berut.Entities\obj\Debug\Berut.Entities.pdb
